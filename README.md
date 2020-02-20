@@ -1,2 +1,2 @@
 # prime-set-conjecture
-Computational verification for a conjecture related to prime numbers
+Computational attempt at verifying a conjecture related to prime numbers
