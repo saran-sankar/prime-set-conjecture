@@ -1,5 +1,5 @@
 # prime-set-conjecture
-Computational attempt at verifying a conjecture related to prime numbers
+Computational attempt at verifying a conjecture of mine related to prime numbers
 
 <b>Conjecture</b>
 
