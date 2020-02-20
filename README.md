@@ -15,7 +15,7 @@ If p is a prime number, then <img src="http://latex.codecogs.com/svg.latex?\exis
 
 Computationally verify this conjecture for as many of the first prime numbers as possible. 
 
-<b>Results of a first attempt</b>
+<b>Results of the first attempt</b>
 
 Within 5 iterations, the conjecture was verified for the first 2595 prime numbers. 
 
