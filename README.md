@@ -13,7 +13,7 @@ If p is a prime number, then <img src="http://latex.codecogs.com/svg.latex?\exis
 
 <b>Goal</b>
 
-Computationally verify this conjecture for as many of the first consecutive prime numbers as possible. 
+Computationally verify this conjecture for as many of the first prime numbers as possible. 
 
 <b>Results of a first attempt</b>
 
