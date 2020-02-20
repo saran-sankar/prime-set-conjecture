@@ -17,5 +17,5 @@ Computationally verify this conjecture for as many of the first prime numbers as
 
 <b>Results of the first attempt</b>
 
-Within 5 iterations, the conjecture was verified for the first 2595 prime numbers. 
+Within 5 iterations, the conjecture was verified for all of the first 2595 prime numbers. 
 
