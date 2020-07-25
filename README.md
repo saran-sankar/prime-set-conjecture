@@ -9,7 +9,7 @@ Computational attempt at verifying a number theoretic conjecture of mine
 
 where P(E) is the power set of E. Let <img src="http://latex.codecogs.com/svg.latex?E_1 = \{2\}" border="0"/>
 
-If p is a prime number, then <img src="http://latex.codecogs.com/svg.latex?\exists{i} \in\field{N} : p \in{E_i}}" border="0"/>
+If p is a prime number, then <img src="http://latex.codecogs.com/svg.latex?\exists%20i%20\in%20N%20\:%20(p%20\in%20E_i)" border="0"/>
 
 <b>Goal</b>
 
@@ -18,4 +18,3 @@ Computationally verify this conjecture for as many of the first prime numbers as
 <b>Results of the first attempt</b>
 
 Within 5 iterations, the conjecture was verified for all of the first 2595 prime numbers. 
-
