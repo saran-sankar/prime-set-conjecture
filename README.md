@@ -5,7 +5,7 @@ Computational attempt at verifying a number theoretic conjecture of mine
 
 <img src="http://latex.codecogs.com/svg.latex?Let\:\rho(C) = \prod_{c_j \in{C}}{c_j}\:+1" border="0"/>, and F(N) be the set of all prime factors of N. 
 
-<img src="http://latex.codecogs.com/svg.latex?Let\:E_i = E_{i-1} \cup \left\{z: z \in{F}(\rho(C)) \:\forall{C} \in{P}(E_{i-1})\right\} for\:i>1" border="0"/>
+<img src="http://latex.codecogs.com/svg.latex?Let\:E_i = E_{i-1} \cup \left\{z \in{F}(\rho(C)): C \in{P}(E_{i-1})\right\} for\:i>1" border="0"/>
 
 where P(E) is the power set of E. Let <img src="http://latex.codecogs.com/svg.latex?E_1 = \{2\}" border="0"/>
 
